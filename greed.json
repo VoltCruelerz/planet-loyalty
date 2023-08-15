@@ -5,6 +5,7 @@
     "description": "Planets now have a Loyalty bar instead of a Health bar.",
     "version": "1.0.0",
     "sinsVersion": "1.14.3.0",
+    "greedVersion": "1.1.0",
     "dependencies": [],
     "conflicts": [],
     "priority": 10
