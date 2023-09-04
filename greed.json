@@ -3,10 +3,9 @@
     "author": "Visual39 & Volt Cruelerz",
     "url": "https://github.com/VoltCruelerz/planet-loyalty",
     "description": "Planets now have a Loyalty bar instead of a Health bar.",
-    "version": "1.1.0",
-    "sinsVersion": "1.14.3.0",
-    "greedVersion": "1.4.0",
+    "version": "1.1.1",
+    "sinsVersion": "1.15.1.0",
+    "greedVersion": "1.6.0",
     "dependencies": [],
-    "conflicts": [],
-    "priority": 10
+    "conflicts": []
 }
